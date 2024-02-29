@@ -1,23 +1,6 @@
 
 # CS611-<Final Project>
 ## <My Fancy Bank>
----------------------------------------------------------------------------
-<Kangxian Xie>
-<kangxian@bu.edu> 
-<U24768544> 
-
-<Yuhang Song> 
-<yuhangs@bu.edu>
-<U94197488>
-
-<Di Wang>
-<vvictors@bu.edu>
-<U22721196>
-
-<Haodong Chen>
-<hjc5283@bu.edu>
-<U60875202>
-
 ## How to compile and run
 ---------------------------------------------------------------------------
 1. Navigate to the directorycontains Main.java after unzipping the files
